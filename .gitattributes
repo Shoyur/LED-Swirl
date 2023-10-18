@@ -1,2 +1,8 @@
-* export-ignore
+# ignore everything
+*
+
+# but
 !main.c
+
+# even in subdir
+!*/
