@@ -1,8 +1,2 @@
-# ignore everything
-*
-
-# but
-!main.c
-
-# even in subdir
-!*/
+# Auto detect text files and perform LF normalization
+* text=auto
